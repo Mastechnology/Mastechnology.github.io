@@ -513,7 +513,7 @@ function orakciFirm() {
 
 function clear() {
     term.clear();
-    term.echo('[[b;#fff;]mfgstudio.dev] has been cleared your screen. (press [[b;#fff;]help()] for help)')
+    term.echo('[[b;#fff;]mastechnology.github.io] has been cleared your screen. (press [[b;#fff;]help()] for help)')
     term.echo('');
 }
 
