@@ -36,9 +36,9 @@ function mySites() {
     term.echo('');
     term.echo('Here is my websites [[b;#fff;]ON AIR :)]:');
     term.echo('');
-    term.echo('- https://www.ne-ka.com.tr/ is a website for NeKa Elektronik. Go with [[b;#fff;]nekaSite()], or click on the link.');
-    term.echo('- https://portaldesignstudio.com/. Go with [[b;#fff;]portalSite()], or click on the link.'); 
-    term.echo('- https://www.mfgstudios.com/ is a website for myself. Go with ...:D okey you are here :D');
+    term.echo('- https://www.ne-ka.com.tr/ is a website I designed for NeKa. Go with [[b;#fff;]nekaSite()], or click on the link.');
+    term.echo('- https://mastechnology.github.io is a website for myself. Go with ...:D okey you are here :D');
+    term.echo('- https://mfgstudiosblog.com is my blog site.');
     term.echo('');
 }
 
@@ -348,7 +348,6 @@ function hello() {
 function whoAmI() {
     term.echo('');
     term.echo('- I am a computer engineer who is working on his dream job. ');
-    term.echo('  I love to work on Mobile App Development and IOT. ');
     term.echo('  My second dream is to pass what I am learning to others. ');
     term.echo('  Because of that, I opened [[b;#fff;]mfgstudiosblog.com] for expanding ');
     term.echo('  the Turkish coding sources.I\'m working on it because I think ');
@@ -375,10 +374,18 @@ function myExperiences() {
     term.echo('');
     term.echo('Experience List:');
     term.echo('');
+    term.echo('   -[[b;#fff;]huawei()]');
     term.echo('   -[[b;#fff;]nekaElektronik()]');
     term.echo('   -[[b;#fff;]mythologyTech()]');
     term.echo('   -[[b;#fff;]gurmeSoft()]');
     term.echo('   -[[b;#fff;]orakciFirm()]');
+    term.echo('');
+}
+
+function huawei() {
+    term.echo('');
+    term.echo('* Full-time, May 2022 - Present');
+    term.echo('- Python and Java Software Development.');
     term.echo('');
 }
 
